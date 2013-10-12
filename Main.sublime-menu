@@ -1,0 +1,12 @@
+[
+    {
+        "id": "tools",
+        "children":
+        [
+            {
+                "caption": "Open with Mou",
+                "command": "mou"
+            }
+        ]
+    }
+]
