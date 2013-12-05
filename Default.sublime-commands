@@ -1,6 +1,6 @@
 [
     {
-        "caption": "Markdown: Open with Mou.app",
-        "command": "mou"
+        "caption": "Markdown: Open with iA Writer.app",
+        "command": "iawriter"
     }
 ]

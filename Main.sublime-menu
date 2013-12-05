@@ -4,8 +4,8 @@
         "children":
         [
             {
-                "caption": "Open with Mou",
-                "command": "mou"
+                "caption": "Open with iA Writer",
+                "command": "iawriter"
             }
         ]
     }
