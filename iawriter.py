@@ -15,7 +15,7 @@ class MouCommand(sublime_plugin.WindowCommand):
         for k, v in proc_env.items():
             proc_env[k] = os.path.expandvars(v).encode(encoding)
 
-        subprocess.call(['open', '-a', 'Mou', filename], env=proc_env)
+        subprocess.call(['open', '-a', 'iA Writer', filename], env=proc_env)
 
     def is_enabled(self):
         return True
