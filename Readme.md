@@ -16,7 +16,7 @@ Adds a handy command and menu item to open your current file with [iA Writer.app
 
 ## Usage
 
-With the view selected containing the file you wish to preview in Marked:
+With the view selected containing the file you wish to preview in iA Writer:
 
 **Command Palette:**
 
