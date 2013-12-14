@@ -26,7 +26,7 @@ With the view selected containing the file you wish to preview in iA Writer:
 * Select Tools → Open with iA Writer
 
 ## Based on Mou Markdown Sublime
-Thanks to @rwoody for [mou-markdown-sublime](https://github.com/rwoody/mou-markdown-sublime)
+Thanks to [@rwoody](https://github.com/rwoody) for [mou-markdown-sublime](https://github.com/rwoody/mou-markdown-sublime)
 
 # License
 [MIT](http://jbrooksuk.mit-license.org)
