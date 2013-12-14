@@ -1,6 +1,5 @@
 # iA Writer.app Markdown - Sublime Text 2/3
 
-
 Adds a handy command and menu item to open your current file with [iA Writer.app](http://www.iawriter.com/mac/).
 
 ![screenshot](http://i.imgur.com/lruVkm6.png)
@@ -28,3 +27,6 @@ With the view selected containing the file you wish to preview in iA Writer:
 
 ## Based on Mou Markdown Sublime
 Thanks to @rwoody for [mou-markdown-sublime](https://github.com/rwoody/mou-markdown-sublime)
+
+# License
+[MIT](http://jbrooksuk.mit-license.org)
